@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4431" started-at="2022-04-12T05:15:34Z" finished-at="2022-04-12T05:15:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4431" started-at="2022-04-12T05:15:34Z" finished-at="2022-04-12T05:15:38Z">
+      <class name="listBoxes.Exercise2">
+        <test-method status="PASS" signature="abc()[pri:0, instance:listBoxes.Exercise2@64c64813]" name="abc" duration-ms="4420" started-at="2022-04-12T10:45:34Z" finished-at="2022-04-12T10:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- listBoxes.Exercise2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
